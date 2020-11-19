@@ -1,0 +1,29 @@
+{
+    "barang": [
+        {
+            "nama":"topi",
+            "harga" : 20000,
+            "gambar": "topi.jpg"
+        },
+        {
+            "nama":"kaos",
+            "harga" : 50000,
+            "gambar": "kaos.jpg"
+        },
+        {
+            "nama":"celana",
+            "harga" : 200000,
+            "gambar": "celana.jpg"
+        },
+        {
+            "nama":"jaket",
+            "harga" : 300000,
+            "gambar": "jaket.jpg"
+        },
+        {
+            "nama":"hijab",
+            "harga" : 70000,
+            "gambar": "hijab.jpg"
+        }
+    ]
+}
