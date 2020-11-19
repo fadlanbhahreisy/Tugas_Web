@@ -19,7 +19,7 @@ session_start();
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top id=" mainNav">
     <div class="container">
-      <a class="navbar-brand" href="#page-top">TOKO ELEKTRONIK ALAN</a>
+      <a class="navbar-brand" href="#page-top">KPLK STORE</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -70,7 +70,7 @@ session_start();
     <div class="container">
       <h1 class="display-4">SISTEM INFORMASI</h1>
       <hr class="my-4">
-      <p>TOKO ELEKTRONIK</p>
+      <p>TOKO FASHION</p>
 
     </div>
 
