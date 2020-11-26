@@ -10,7 +10,7 @@ $data_barang = $barang["barang"];
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Halaman Barang</title>
-    <link rel="stylesheet" href="../css/style_barang.css">
+    <link rel="stylesheet" href="../asset/style/style_barang.css">
 </head>
 
 <body>
