@@ -83,6 +83,10 @@ class Auth extends BaseController
         }
         return view('login');
     }
+    public function front()
+    {
+        return view('front');
+    }
     public function logout()
     {
         $this->session->destroy();
