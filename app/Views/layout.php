@@ -63,6 +63,7 @@
 
     <!-- Page Specific JS File -->
     <script src="../../../assets/js/page/components-table.js"></script>
+    <?= $this->renderSection('script') ?>
 </body>
 
 </html>
