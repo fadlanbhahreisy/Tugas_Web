@@ -61,7 +61,7 @@ $submit = [
     <?= form_input($stok) ?>
 </div>
 
-<img class="img-fluid" width="150px" alt="image" src="<?= base_url('uploads/' . $barang->gambar) ?>" />
+<img class="img-fluid" width="150px" alt="image" src="<?= base_url('public/uploads/' . $barang->gambar) ?>" />
 
 <div class="form-group">
     <?= form_label("Gambar", "gambar") ?>

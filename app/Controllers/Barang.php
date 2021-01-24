@@ -56,9 +56,9 @@ class Barang extends BaseController
 
                 $id = $barangModel->insertID();
 
-                $segments = ['barang', 'view', $id];
+                $segments = ['/barang', 'view', $id];
                 // /barang/view/$id
-                return redirect()->to(site_url($segments));
+                return redirect()->to(base_url($segments));
             }
         }
         return view('barang/create');
@@ -90,7 +90,7 @@ class Barang extends BaseController
 
                 $barangModel->save($b);
 
-                $segments = ['Barang', 'view', $id];
+                $segments = ['/Barang', 'view', $id];
 
                 return redirect()->to(base_url($segments));
             }
@@ -107,6 +107,6 @@ class Barang extends BaseController
         $modelBarang = new \App\Models\BarangModel();
         $delete = $modelBarang->delete($id);
 
-        return redirect()->to(site_url('barang/index'));
+        return redirect()->to(base_url('/barang/index'));
     }
 }

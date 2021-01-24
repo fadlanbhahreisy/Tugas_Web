@@ -63,9 +63,9 @@ class Etalase extends BaseController
 
                 $id = $transaksiModel->insertID();
 
-                $segment = ['transaksi', 'view', $id];
+                $segment = ['/transaksi', 'view', $id];
 
-                return redirect()->to(site_url($segment));
+                return redirect()->to(base_url($segment));
             }
         }
 

@@ -5,8 +5,8 @@
     <thead>
         <tr>
             <th>No</th>
-            <th>Barang</th>
-            <th>Pembeli</th>
+            <th>Id Barang</th>
+            <th>Id Pembeli</th>
             <th>Alamat</th>
             <th>Jumlah</th>
             <th>Harga</th>
@@ -23,8 +23,8 @@
                 <td><?= $transaksi->jumlah ?></td>
                 <td><?= $transaksi->total_harga ?></td>
                 <td>
-                    <a href="<?= site_url('transaksi/view/' . $transaksi->id) ?>" class="btn btn-primary">View</a>
-                    <a href="<?= site_url('transaksi/invoice/' . $transaksi->id) ?>" class="btn btn-info">print</a>
+                    <a href="<?= base_url('/transaksi/view/' . $transaksi->id) ?>" class="btn btn-primary">View</a>
+                    <a href="<?= base_url('/transaksi/invoice/' . $transaksi->id) ?>" class="btn btn-info">print</a>
                 </td>
             </tr>
         <?php endforeach ?>

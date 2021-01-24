@@ -32,9 +32,9 @@ class Database extends \CodeIgniter\Database\Config
 	public $default = [
 		'DSN'      => '',
 		'hostname' => 'localhost',
-		'username' => '',
-		'password' => '',
-		'database' => '',
+		'username' => 'ayobela2_kplkci',
+		'password' => 'ayobela2_kplkci',
+		'database' => 'ayobela2_kplkci',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
@@ -46,7 +46,7 @@ class Database extends \CodeIgniter\Database\Config
 		'swapPre'  => '',
 		'encrypt'  => false,
 		'compress' => false,
-		'strictOn' => false,
+		'strictOn' => true,
 		'failover' => [],
 		'port'     => 3306,
 	];

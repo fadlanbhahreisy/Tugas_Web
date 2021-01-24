@@ -7,10 +7,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="../../assets/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="../../assets/css/style_index.css">
+  <link rel="stylesheet" href="<?= base_url('public/assets/css/bootstrap.min.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/assets/css/style_index.css') ?>">
   <title>Tugas Web</title>
 </head>
+
 
 <body id="page-top">
 
@@ -23,10 +24,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link js-scroll-trigger" href="<?= site_url('Auth/register') ?>">Register </a>
+            <a class="nav-link js-scroll-trigger" href="<?= base_url('/auth/register') ?>">Register </a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link js-scroll-trigger" href="<?= site_url('Auth/login') ?>">Login</a>
+            <a class="nav-link js-scroll-trigger" href="<?= base_url('/auth/login') ?>">Login</a>
           </li>
         </ul>
       </div>
@@ -37,9 +38,9 @@
 
   <div class="jumbotron">
     <div class="container">
-      <h1 class="display-4">SISTEM INFORMASI</h1>
+      <h1 class="display-4">WELCOME TO</h1>
       <hr class="my-4">
-      <p>TOKO FASHION</p>
+      <p>KPLK STORE</p>
 
     </div>
 

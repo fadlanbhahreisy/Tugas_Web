@@ -11,11 +11,11 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
   <!-- CSS Libraries -->
-  <link rel="stylesheet" href="../node_modules/bootstrap-social/bootstrap-social.css">
+  <link rel="stylesheet" href="<?= base_url('public/node_modules/bootstrap-social/bootstrap-social.css') ?>">
 
   <!-- Template CSS -->
-  <link rel="stylesheet" href="../../assets/css/style.css">
-  <link rel="stylesheet" href="../../assets/css/components.css">
+  <link rel="stylesheet" href="<?= base_url('public/assets/css/style.css') ?>">
+  <link rel="stylesheet" href="<?= base_url('public/assets/css/components.css') ?>">
 </head>
 
 <body>
@@ -24,7 +24,7 @@
       <div class="d-flex flex-wrap align-items-stretch">
         <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white">
           <div class="p-4 m-3">
-            <img src="../../assets/img/kplk.jpg" alt="logo" width="80" class="shadow-light rounded-circle mb-5 mt-2">
+            <img src="<?= base_url('public/assets/img/kplk.jpg') ?>" alt="logo" width="80" class="shadow-light rounded-circle mb-5 mt-2">
             <h4 class="text-dark font-weight-normal">Welcome to <span class="font-weight-bold">KPLK STORE</span></h4>
             <p class="text-muted">Before you get started, you must login or register if you don't already have an account.</p>
             <?php
@@ -80,7 +80,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-8 col-12 order-lg-2 order-1 min-vh-100 background-walk-y position-relative overlay-gradient-bottom" data-background="../../assets/img/unsplash/login-bg.jpg">
+        <div class="col-lg-8 col-12 order-lg-2 order-1 min-vh-100 background-walk-y position-relative overlay-gradient-bottom" data-background="<?= base_url('public/assets/img/unsplash/login-bg.jpg') ?>">
           <div class="absolute-bottom-left index-2">
             <div class="text-light p-5 pb-2">
               <div class="mb-5 pb-3">
@@ -101,13 +101,13 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.7.6/jquery.nicescroll.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
-  <script src="../../assets/js/stisla.js"></script>
+  <script src="<?= base_url('public/assets/js/stisla.js') ?>"></script>
 
   <!-- JS Libraies -->
 
   <!-- Template JS File -->
-  <script src="../../assets/js/scripts.js"></script>
-  <script src="../../assets/js/custom.js"></script>
+  <script src="<?= base_url('public/assets/js/scripts.js') ?>"></script>
+  <script src="<?= base_url('public/assets/js/custom.js') ?>"></script>
 
   <!-- Page Specific JS File -->
 </body>

@@ -16,14 +16,14 @@
                 <td><?= ($index + 1) ?></td>
                 <td><?= $barang->nama ?></td>
                 <td>
-                    <img class="img-fluid" width="150px" alt="gambar" src="<?= base_url('uploads/' . $barang->gambar) ?>" />
+                    <img class="img-fluid" width="150px" alt="gambar" src="<?= base_url('public/uploads/' . $barang->gambar) ?>" />
                 </td>
                 <td><?= $barang->harga ?></td>
                 <td><?= $barang->stok ?></td>
                 <td>
-                    <a href="<?= site_url('barang/view/' . $barang->id) ?>" class="btn btn-primary">View</a>
-                    <a href="<?= site_url('barang/update/' . $barang->id) ?>" class="btn btn-success">Update</a>
-                    <a href="<?= site_url('barang/delete/' . $barang->id) ?>" class="btn btn-danger">Delete</a>
+                    <a href="<?= base_url('/barang/view/' . $barang->id) ?>" class="btn btn-primary">View</a>
+                    <a href="<?= base_url('/barang/update/' . $barang->id) ?>" class="btn btn-success">Update</a>
+                    <a href="<?= base_url('/barang/delete/' . $barang->id) ?>" class="btn btn-danger">Delete</a>
                 </td>
             </tr>
         <?php endforeach ?>

@@ -30,7 +30,8 @@ class User extends Migration
 			],
 			'role' => [
 				'type' => 'INT',
-				'constraint' => 11,
+				'constraint' => 1,
+				'default' => 1,
 			],
 			'created_by' => [
 				'type' => 'INT',

@@ -129,7 +129,7 @@ $submit = [
             $("#kabupaten").empty();
             var id_province = $(this).val();
             $.ajax({
-                url: "<?= site_url('etalase/getCity') ?>",
+                url: "<?= base_url('/etalase/getCity') ?>",
                 type: 'GET',
                 data: {
                     'id_province': id_province,
@@ -152,7 +152,7 @@ $submit = [
         $("#kabupaten").on('change', function() {
             var id_city = $(this).val();
             $.ajax({
-                url: "<?= site_url('etalase/getcost') ?>",
+                url: "<?= base_url('/etalase/getcost') ?>",
                 type: 'GET',
                 data: {
                     'origin': 154,

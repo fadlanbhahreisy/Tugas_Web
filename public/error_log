@@ -1,0 +1,357 @@
+[23-Jan-2021 06:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:35:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:35:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:35:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:42:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:58:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:58:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:58:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:59:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 06:59:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 07:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 07:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 09:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:30:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:30:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:34:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:34:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:34:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:34:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:39:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:44:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 11:52:31 UTC] PHP Warning:  require(): Filename cannot be empty in /home/ayobela2/public_html/kplkci/public/index.php on line 31
+[23-Jan-2021 11:52:31 UTC] PHP Warning:  require(): Filename cannot be empty in /home/ayobela2/public_html/kplkci/public/index.php on line 31
+[23-Jan-2021 11:52:31 UTC] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ayobela2/public_html/kplkci/public/index.php on line 31
+[23-Jan-2021 12:04:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:04:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:06:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:16:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:30:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:46:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184
+[23-Jan-2021 12:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CodeIgniter\locale_set_default() in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php:184
+Stack trace:
+#0 /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/bootstrap.php(181): CodeIgniter\CodeIgniter->initialize()
+#1 /home/ayobela2/public_html/kplkci/public/index.php(35): require('/home/ayobela2/...')
+#2 {main}
+  thrown in /home/ayobela2/public_html/kplkci/vendor/codeigniter4/framework/system/CodeIgniter.php on line 184

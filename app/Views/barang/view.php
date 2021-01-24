@@ -6,7 +6,7 @@
         <div class="col-6">
             <div class="card">
                 <div class="card-body">
-                    <img class="img-fluid" alt="image" src="<?= base_url('uploads/' . $barang->gambar) ?>" />
+                    <img class="img-fluid" alt="image" src="<?= base_url('public/uploads/' . $barang->gambar) ?>" />
                 </div>
             </div>
         </div>

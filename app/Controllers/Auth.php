@@ -15,12 +15,11 @@ class Auth extends BaseController
     public function register()
     {
         if ($this->request->getPost()) {
-            //lakukan validasi untuk data yang di post
+            //validasi untuk data yang di post
             $data = $this->request->getPost();
             $validate = $this->validation->run($data, 'register');
             $errors = $this->validation->getErrors();
 
-            //jika tidak ada errors jalanakan
             if (!$errors) {
                 $userModel = new \App\Models\UserModel();
 
@@ -29,7 +28,8 @@ class Auth extends BaseController
                 $user->username = $this->request->getPost('username');
                 $user->password = $this->request->getPost('password');
 
-                $user->created_by = 1;
+                $user->role = 1;
+                $user->created_by = 0;
                 $user->created_date = date("Y-m-d H:i:s");
 
                 $userModel->save($user);
@@ -75,7 +75,7 @@ class Auth extends BaseController
 
                     $this->session->set($sessData);
 
-                    return redirect()->to(site_url('home/page'));
+                    return redirect()->to(base_url('/home/page'));
                 }
             } else {
                 $this->session->setFlashdata('errors', ['User Tidak Ditemukan']);
@@ -90,6 +90,6 @@ class Auth extends BaseController
     public function logout()
     {
         $this->session->destroy();
-        return redirect()->to(site_url('home/index'));
+        return redirect()->to(base_url('/home/index'));
     }
 }

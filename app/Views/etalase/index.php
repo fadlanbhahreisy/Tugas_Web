@@ -10,12 +10,12 @@
                         <h3><strong><?= $m->nama ?></strong></h3>
                     </div>
                     <div class="card-body">
-                        <img class="img-thumbnail" style="max-height: 200px" src="<?= base_url('uploads/' . $m->gambar) ?>" />
+                        <img class="img-thumbnail" style="max-height: 200px" src="<?= base_url('public/uploads/' . $m->gambar) ?>" />
                         <h5 class="mt-3 text-success"><?= "Rp " . number_format($m->harga, 2, ',', '.') ?></h5>
                         <p class="text-info">Stok : <?= $m->stok ?></p>
                     </div>
                     <div class="card-footer">
-                        <a href="<?= site_url('etalase/beli/' . $m->id) ?>" style="width:100%" class="btn btn-success">Beli</a>
+                        <a href="<?= base_url('/etalase/beli/' . $m->id) ?>" style="width:100%" class="btn btn-success">Beli</a>
                     </div>
                 </div>
             </div>

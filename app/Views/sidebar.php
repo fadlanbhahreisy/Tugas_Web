@@ -12,14 +12,14 @@
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-columns"></i> <span>Barang</span></a>
                     <ul class="dropdown-menu">
-                        <li><a class="nav-link" href="<?= site_url('barang/index') ?>">List Barang</a></li>
-                        <li><a class="nav-link" href="<?= site_url('barang/create') ?>">Tambah Barang</a></li>
+                        <li><a class="nav-link" href="<?= base_url('/barang/index') ?>">List Barang</a></li>
+                        <li><a class="nav-link" href="<?= base_url('/barang/create') ?>">Tambah Barang</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-columns"></i> <span>Transaksi</span></a>
                     <ul class="dropdown-menu">
-                        <li><a class="nav-link" href="<?= site_url('transaksi/index') ?>">List Transaksi</a></li>
+                        <li><a class="nav-link" href="<?= base_url('/transaksi/index') ?>">List Transaksi</a></li>
                     </ul>
                 </li>
             <?php else : ?>
@@ -27,14 +27,14 @@
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-columns"></i> <span>Dashboard</span></a>
                     <ul class="dropdown-menu">
-                        <li><a class="nav-link" href="<?= site_url('etalase/index') ?>">etalase</a></li>
+                        <li><a class="nav-link" href="<?= base_url('/etalase/index') ?>">etalase</a></li>
 
                     </ul>
                 </li>
             <?php endif ?>
 
             <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
-                <a href="<?= base_url('Auth/logout') ?>" class="btn btn-primary btn-lg btn-block btn-icon-split">
+                <a href="<?= base_url('/Auth/logout') ?>" class="btn btn-primary btn-lg btn-block btn-icon-split">
                     <i class="fas fa-rocket"></i> Logout
                 </a>
             </div>
