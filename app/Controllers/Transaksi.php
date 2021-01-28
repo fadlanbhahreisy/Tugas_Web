@@ -69,7 +69,7 @@ class Transaksi extends BaseController
 
         // output the HTML content
         $pdf->writeHTML($html, true, false, true, false, '');
-        //line ini penting
+
         $this->response->setContentType('application/pdf');
         //Close and output PDF document
         $pdf->Output('invoice.pdf', 'I');
