@@ -5,13 +5,13 @@ Nama Kelompok :
 
 Login as admin <br />
 Username = fadlan<br />
-Password = password
+Password = password<br />
 
-Login as user
-Username = dimas
-Password = dimas
-Or
-Username = rifai
-Password = rifai
-Or
+Login as user<br />
+Username = dimas<br />
+Password = dimas<br />
+Or<br />
+Username = rifai<br />
+Password = rifai<br />
+Or<br />
 Registrasi dulu untuk user baru
